@@ -1,0 +1,1645 @@
+fileFormatVersion: 2
+guid: 22592b983a8960d42800f3dea140ad97
+timeCreated: 1515961038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zagan_fighter_axe - Copy_0
+    21300002: zagan_fighter_axe - Copy_1
+    21300004: zagan_fighter_axe - Copy_2
+    21300006: zagan_fighter_axe - Copy_3
+    21300008: zagan_fighter_axe - Copy_4
+    21300010: zagan_fighter_axe - Copy_5
+    21300012: zagan_fighter_axe - Copy_6
+    21300014: zagan_fighter_axe - Copy_7
+    21300016: zagan_fighter_axe - Copy_8
+    21300018: zagan_fighter_axe - Copy_9
+    21300020: zagan_fighter_axe - Copy_10
+    21300022: zagan_fighter_axe - Copy_11
+    21300024: zagan_fighter_axe - Copy_12
+    21300026: zagan_fighter_axe - Copy_13
+    21300028: zagan_fighter_axe - Copy_14
+    21300030: zagan_fighter_axe - Copy_15
+    21300032: zagan_fighter_axe - Copy_16
+    21300034: zagan_fighter_axe - Copy_17
+    21300036: zagan_fighter_axe - Copy_18
+    21300038: zagan_fighter_axe - Copy_19
+    21300040: zagan_fighter_axe - Copy_20
+    21300042: zagan_fighter_axe - Copy_21
+    21300044: zagan_fighter_axe - Copy_22
+    21300046: zagan_fighter_axe - Copy_23
+    21300048: zagan_fighter_axe - Copy_24
+    21300050: zagan_fighter_axe - Copy_25
+    21300052: zagan_fighter_axe - Copy_26
+    21300054: zagan_fighter_axe - Copy_27
+    21300056: zagan_fighter_axe - Copy_28
+    21300058: zagan_fighter_axe - Copy_29
+    21300060: zagan_fighter_axe - Copy_30
+    21300062: zagan_fighter_axe - Copy_31
+    21300064: zagan_fighter_axe - Copy_32
+    21300066: zagan_fighter_axe - Copy_33
+    21300068: zagan_fighter_axe - Copy_34
+    21300070: zagan_fighter_axe - Copy_35
+    21300072: zagan_fighter_axe - Copy_36
+    21300074: zagan_fighter_axe - Copy_37
+    21300076: zagan_fighter_axe - Copy_38
+    21300078: zagan_fighter_axe - Copy_39
+    21300080: zagan_fighter_axe - Copy_40
+    21300082: zagan_fighter_axe - Copy_41
+    21300084: zagan_fighter_axe - Copy_42
+    21300086: zagan_fighter_axe - Copy_43
+    21300088: zagan_fighter_axe - Copy_44
+    21300090: zagan_fighter_axe - Copy_45
+    21300092: zagan_fighter_axe - Copy_46
+    21300094: zagan_fighter_axe - Copy_47
+    21300096: zagan_fighter_axe - Copy_48
+    21300098: zagan_fighter_axe - Copy_49
+    21300100: zagan_fighter_axe - Copy_50
+    21300102: zagan_fighter_axe - Copy_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -18.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 23.5, y: 18.5}
+      physicsShape:
+      - - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -18.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 23.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 324
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -7.5}
+        - {x: -20, y: -15.5}
+        - {x: -15, y: -18.5}
+        - {x: 23, y: -18.5}
+        - {x: 23, y: 11.5}
+        - {x: 22, y: 18.5}
+        - {x: -2, y: 18.5}
+        - {x: -23, y: 3.5}
+      physicsShape:
+      - - {x: -23, y: -7.5}
+        - {x: -20, y: -15.5}
+        - {x: -15, y: -18.5}
+        - {x: 23, y: -18.5}
+        - {x: 23, y: 11.5}
+        - {x: 22, y: 18.5}
+        - {x: -2, y: 18.5}
+        - {x: -23, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18.5}
+        - {x: -36, y: 3.5}
+        - {x: -36, y: -12.5}
+        - {x: -35, y: -17.5}
+        - {x: -31, y: -18.5}
+        - {x: 36, y: -18.5}
+        - {x: 36, y: -4.5}
+        - {x: 19, y: 18.5}
+      physicsShape:
+      - - {x: -18, y: 18.5}
+        - {x: -36, y: 3.5}
+        - {x: -36, y: -12.5}
+        - {x: -35, y: -17.5}
+        - {x: -31, y: -18.5}
+        - {x: 36, y: -18.5}
+        - {x: 36, y: -4.5}
+        - {x: 19, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 325
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -18.5}
+        - {x: 27.5, y: -18.5}
+        - {x: 27.5, y: -6.5}
+        - {x: 0.5, y: 18.5}
+        - {x: -27.5, y: 18.5}
+        - {x: -27.5, y: -18.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 5.5, y: -15.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 2.5, y: -5.5}
+      physicsShape:
+      - - {x: 18.5, y: -18.5}
+        - {x: 27.5, y: -18.5}
+        - {x: 27.5, y: -6.5}
+        - {x: 0.5, y: 18.5}
+        - {x: -27.5, y: 18.5}
+        - {x: -27.5, y: -18.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 5.5, y: -15.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 2.5, y: -5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 322
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -4}
+        - {x: 4, y: 20}
+        - {x: 2, y: 21}
+        - {x: -29, y: 21}
+        - {x: -29, y: -21}
+        - {x: 13, y: -21}
+        - {x: 15, y: -18}
+        - {x: 15, y: -17}
+        - {x: 29, y: -15}
+      physicsShape:
+      - - {x: 29, y: -4}
+        - {x: 4, y: 20}
+        - {x: 2, y: 21}
+        - {x: -29, y: 21}
+        - {x: -29, y: -21}
+        - {x: 13, y: -21}
+        - {x: 15, y: -18}
+        - {x: 15, y: -17}
+        - {x: 29, y: -15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 316
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -21, y: 24}
+        - {x: -21, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: -5}
+        - {x: 19, y: 14}
+      physicsShape:
+      - - {x: -2, y: 24}
+        - {x: -21, y: 24}
+        - {x: -21, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: -5}
+        - {x: 19, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 319
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 23}
+        - {x: -21, y: 23}
+        - {x: -21, y: -11}
+        - {x: -19, y: -23}
+        - {x: 21, y: -23}
+        - {x: 21, y: -2}
+        - {x: 13, y: 21}
+      physicsShape:
+      - - {x: 0, y: 23}
+        - {x: -21, y: 23}
+        - {x: -21, y: -11}
+        - {x: -19, y: -23}
+        - {x: 21, y: -23}
+        - {x: 21, y: -2}
+        - {x: 13, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 319
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -10.5}
+        - {x: -23, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 20, y: -21.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 8.5}
+      physicsShape:
+      - - {x: 17, y: 23.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -10.5}
+        - {x: -23, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 20, y: -21.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 321
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23.5}
+        - {x: -15, y: 22.5}
+        - {x: -19, y: 11.5}
+        - {x: -19, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 14.5}
+        - {x: 9, y: 23.5}
+      physicsShape:
+      - - {x: -13, y: 23.5}
+        - {x: -15, y: 22.5}
+        - {x: -19, y: 11.5}
+        - {x: -19, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 14.5}
+        - {x: 9, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 29}
+        - {x: -15, y: 29}
+        - {x: -31, y: 7}
+        - {x: -31, y: -17}
+        - {x: -25, y: -28}
+        - {x: -16, y: -29}
+        - {x: 31, y: -29}
+        - {x: 31, y: 7}
+        - {x: 7, y: 20}
+      - - {x: -31, y: 29}
+        - {x: -31, y: 26}
+        - {x: -24, y: 26}
+        - {x: -22, y: 28}
+        - {x: -22, y: 29}
+      physicsShape:
+      - - {x: -9, y: 29}
+        - {x: -15, y: 29}
+        - {x: -31, y: 7}
+        - {x: -31, y: -17}
+        - {x: -25, y: -28}
+        - {x: -16, y: -29}
+        - {x: 31, y: -29}
+        - {x: 31, y: 7}
+        - {x: 7, y: 20}
+      - - {x: -31, y: 29}
+        - {x: -31, y: 26}
+        - {x: -24, y: 26}
+        - {x: -22, y: 28}
+        - {x: -22, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 313
+        width: 44
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 2.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -2.5}
+        - {x: 22, y: -2.5}
+        - {x: 22, y: 2.5}
+      physicsShape:
+      - - {x: -20, y: 2.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -2.5}
+        - {x: 22, y: -2.5}
+        - {x: 22, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 27}
+        - {x: -18.5, y: 8}
+        - {x: -18.5, y: -27}
+        - {x: 17.5, y: -27}
+        - {x: 18.5, y: -18}
+        - {x: 18.5, y: 27}
+      - - {x: 2.5, y: 10}
+        - {x: 1.5, y: 10}
+      physicsShape:
+      - - {x: -9.5, y: 27}
+        - {x: -18.5, y: 8}
+        - {x: -18.5, y: -27}
+        - {x: 17.5, y: -27}
+        - {x: 18.5, y: -18}
+        - {x: 18.5, y: 27}
+      - - {x: 2.5, y: 10}
+        - {x: 1.5, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 248
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 32.5}
+        - {x: -21, y: -19.5}
+        - {x: -16, y: -32.5}
+        - {x: 21, y: -32.5}
+        - {x: 21, y: 10.5}
+        - {x: 0, y: 32.5}
+      physicsShape:
+      - - {x: -21, y: 32.5}
+        - {x: -21, y: -19.5}
+        - {x: -16, y: -32.5}
+        - {x: 21, y: -32.5}
+        - {x: 21, y: 10.5}
+        - {x: 0, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 27.5}
+        - {x: -17, y: 20.5}
+        - {x: -35, y: -3.5}
+        - {x: -35, y: -25.5}
+        - {x: -27, y: -27.5}
+        - {x: 19, y: -27.5}
+        - {x: 35, y: -10.5}
+        - {x: 35, y: 9.5}
+        - {x: 29, y: 27.5}
+      physicsShape:
+      - - {x: 16, y: 27.5}
+        - {x: -17, y: 20.5}
+        - {x: -35, y: -3.5}
+        - {x: -35, y: -25.5}
+        - {x: -27, y: -27.5}
+        - {x: 19, y: -27.5}
+        - {x: 35, y: -10.5}
+        - {x: 35, y: 9.5}
+        - {x: 29, y: 27.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 233
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 18}
+        - {x: -45.5, y: 4}
+        - {x: -45.5, y: -13}
+        - {x: -39.5, y: -18}
+        - {x: 45.5, y: -18}
+        - {x: 45.5, y: 12}
+        - {x: 36.5, y: 18}
+      physicsShape:
+      - - {x: -25.5, y: 18}
+        - {x: -45.5, y: 4}
+        - {x: -45.5, y: -13}
+        - {x: -39.5, y: -18}
+        - {x: 45.5, y: -18}
+        - {x: 45.5, y: 12}
+        - {x: 36.5, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 250
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -6.5}
+        - {x: 37.5, y: 13.5}
+        - {x: 32.5, y: 20.5}
+        - {x: -14.5, y: 20.5}
+        - {x: -37.5, y: 13.5}
+        - {x: -37.5, y: -20.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 28.5, y: -13.5}
+        - {x: 28.5, y: -11.5}
+        - {x: 24.5, y: -7.5}
+        - {x: 36.5, y: -6.5}
+      - - {x: 29.5, y: -20.5}
+        - {x: 29.5, y: -18.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 24.5, y: -20.5}
+      - - {x: 34.5, y: -20.5}
+        - {x: 37.5, y: -20.5}
+        - {x: 37.5, y: -8.5}
+        - {x: 34.5, y: -9.5}
+      - - {x: 27.5, y: -4.5}
+        - {x: 30.5, y: -9.5}
+        - {x: 33.5, y: -7.5}
+        - {x: 32.5, y: -3.5}
+        - {x: 30.5, y: -1.5}
+        - {x: 28.5, y: -1.5}
+      physicsShape:
+      - - {x: 37.5, y: -6.5}
+        - {x: 37.5, y: 13.5}
+        - {x: 32.5, y: 20.5}
+        - {x: -14.5, y: 20.5}
+        - {x: -37.5, y: 13.5}
+        - {x: -37.5, y: -20.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 28.5, y: -13.5}
+        - {x: 28.5, y: -11.5}
+        - {x: 24.5, y: -7.5}
+        - {x: 36.5, y: -6.5}
+      - - {x: 29.5, y: -20.5}
+        - {x: 29.5, y: -18.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 24.5, y: -20.5}
+      - - {x: 34.5, y: -20.5}
+        - {x: 37.5, y: -20.5}
+        - {x: 37.5, y: -8.5}
+        - {x: 34.5, y: -9.5}
+      - - {x: 27.5, y: -4.5}
+        - {x: 30.5, y: -9.5}
+        - {x: 33.5, y: -7.5}
+        - {x: 32.5, y: -3.5}
+        - {x: 30.5, y: -1.5}
+        - {x: 28.5, y: -1.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 250
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 11}
+        - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -6, y: 5}
+        - {x: -6, y: -16}
+        - {x: 0, y: -16}
+        - {x: 3, y: -14}
+        - {x: 6, y: -2}
+        - {x: 8, y: 5}
+      - - {x: 4, y: -8}
+        - {x: 4, y: -10}
+        - {x: 6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: -6}
+        - {x: 6, y: -6}
+      - - {x: -8, y: -3}
+        - {x: -8, y: -9}
+        - {x: -6, y: -9}
+        - {x: -4, y: -7}
+        - {x: -4, y: -5}
+        - {x: -6, y: -3}
+      physicsShape:
+      - - {x: 8, y: 11}
+        - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -6, y: 5}
+        - {x: -6, y: -16}
+        - {x: 0, y: -16}
+        - {x: 3, y: -14}
+        - {x: 6, y: -2}
+        - {x: 8, y: 5}
+      - - {x: 4, y: -8}
+        - {x: 4, y: -10}
+        - {x: 6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: -6}
+        - {x: 6, y: -6}
+      - - {x: -8, y: -3}
+        - {x: -8, y: -9}
+        - {x: -6, y: -9}
+        - {x: -4, y: -7}
+        - {x: -4, y: -5}
+        - {x: -6, y: -3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 242
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 20.5}
+        - {x: -34, y: 19.5}
+        - {x: -34, y: -20.5}
+        - {x: 29, y: -20.5}
+        - {x: 32, y: -14.5}
+        - {x: 33, y: -11.5}
+        - {x: 34, y: -7.5}
+        - {x: 34, y: 20.5}
+      - - {x: 15, y: 9.5}
+        - {x: 16, y: 8.5}
+        - {x: 20, y: 8.5}
+        - {x: 22, y: 10.5}
+        - {x: 22, y: 9.5}
+        - {x: 21, y: 8.5}
+        - {x: 19, y: 9.5}
+      physicsShape:
+      - - {x: -31, y: 20.5}
+        - {x: -34, y: 19.5}
+        - {x: -34, y: -20.5}
+        - {x: 29, y: -20.5}
+        - {x: 32, y: -14.5}
+        - {x: 33, y: -11.5}
+        - {x: 34, y: -7.5}
+        - {x: 34, y: 20.5}
+      - - {x: 15, y: 9.5}
+        - {x: 16, y: 8.5}
+        - {x: 20, y: 8.5}
+        - {x: 22, y: 10.5}
+        - {x: 22, y: 9.5}
+        - {x: 21, y: 8.5}
+        - {x: 19, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -10.5}
+        - {x: -26.5, y: -20.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 20.5}
+      - - {x: 14.5, y: 9.5}
+        - {x: 15.5, y: 8.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 21.5, y: 9.5}
+        - {x: 20.5, y: 8.5}
+        - {x: 18.5, y: 9.5}
+      physicsShape:
+      - - {x: -12.5, y: 20.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -10.5}
+        - {x: -26.5, y: -20.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 20.5}
+      - - {x: 14.5, y: 9.5}
+        - {x: 15.5, y: 8.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 21.5, y: 9.5}
+        - {x: 20.5, y: 8.5}
+        - {x: 18.5, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 196
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20.5}
+        - {x: -23, y: -15.5}
+        - {x: -19, y: -18.5}
+        - {x: -8, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 23, y: -16.5}
+        - {x: 23, y: 20.5}
+      - - {x: 4, y: 9.5}
+        - {x: 5, y: 8.5}
+        - {x: 9, y: 8.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: 9.5}
+        - {x: 10, y: 8.5}
+        - {x: 8, y: 9.5}
+      physicsShape:
+      - - {x: -23, y: 20.5}
+        - {x: -23, y: -15.5}
+        - {x: -19, y: -18.5}
+        - {x: -8, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 23, y: -16.5}
+        - {x: 23, y: 20.5}
+      - - {x: 4, y: 9.5}
+        - {x: 5, y: 8.5}
+        - {x: 9, y: 8.5}
+        - {x: 11, y: 10.5}
+        - {x: 11, y: 9.5}
+        - {x: 10, y: 8.5}
+        - {x: 8, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -18.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 20.5, y: 21.5}
+      physicsShape:
+      - - {x: -19.5, y: 21.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -18.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 20.5, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 199
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 7.5}
+        - {x: 8.5, y: 21.5}
+      physicsShape:
+      - - {x: -15.5, y: 21.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 7.5}
+        - {x: 8.5, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 183
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 23.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 23.5}
+      - - {x: 3.5, y: -14.5}
+        - {x: 4.5, y: -15.5}
+        - {x: 3.5, y: -15.5}
+      physicsShape:
+      - - {x: -5.5, y: 23.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 23.5}
+      - - {x: 3.5, y: -14.5}
+        - {x: 4.5, y: -15.5}
+        - {x: 3.5, y: -15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 181
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -3.5}
+        - {x: -15, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 16.5}
+        - {x: 17, y: 23.5}
+      physicsShape:
+      - - {x: -7, y: 23.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -3.5}
+        - {x: -15, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 19, y: 16.5}
+        - {x: 17, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 182
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23.5}
+        - {x: -21, y: 15.5}
+        - {x: -21, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 8.5}
+        - {x: 10, y: 23.5}
+      physicsShape:
+      - - {x: -11, y: 23.5}
+        - {x: -21, y: 15.5}
+        - {x: -21, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 8.5}
+        - {x: 10, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 186
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 23.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 17.5, y: 23.5}
+      physicsShape:
+      - - {x: -11.5, y: 23.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 17.5, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 186
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -21, y: 13}
+        - {x: -21, y: -13}
+        - {x: -19, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: 7}
+        - {x: 15, y: 24}
+      physicsShape:
+      - - {x: -13, y: 24}
+        - {x: -21, y: 13}
+        - {x: -21, y: -13}
+        - {x: -19, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: 7}
+        - {x: 15, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 26.5}
+        - {x: -15.5, y: 14.5}
+        - {x: -15.5, y: -25.5}
+        - {x: -12.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 15.5, y: 26.5}
+      physicsShape:
+      - - {x: -3.5, y: 26.5}
+        - {x: -15.5, y: 14.5}
+        - {x: -15.5, y: -25.5}
+        - {x: -12.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 15.5, y: 26.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23.5}
+        - {x: -20, y: -20.5}
+        - {x: -15, y: -23.5}
+        - {x: 14, y: -23.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 23.5}
+      physicsShape:
+      - - {x: -20, y: 23.5}
+        - {x: -20, y: -20.5}
+        - {x: -15, y: -23.5}
+        - {x: 14, y: -23.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 113
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20.5}
+        - {x: -24, y: -20.5}
+        - {x: 19, y: -20.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+        - {x: 21, y: 20.5}
+      physicsShape:
+      - - {x: -24, y: 20.5}
+        - {x: -24, y: -20.5}
+        - {x: 19, y: -20.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+        - {x: 21, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 21.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 20.5, y: 21.5}
+      physicsShape:
+      - - {x: -23.5, y: 21.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 20.5, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 112
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 14.5}
+        - {x: 13.5, y: 21.5}
+      physicsShape:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 22.5, y: -10.5}
+        - {x: 22.5, y: 14.5}
+        - {x: 13.5, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -3.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 8.5, y: -13.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 21.5, y: 13.5}
+        - {x: 10.5, y: 21.5}
+        - {x: -21.5, y: 21.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 2.5, y: -10.5}
+        - {x: 4.5, y: -4.5}
+      physicsShape:
+      - - {x: 4.5, y: -3.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 8.5, y: -13.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 21.5, y: 13.5}
+        - {x: 10.5, y: 21.5}
+        - {x: -21.5, y: 21.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 2.5, y: -10.5}
+        - {x: 4.5, y: -4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 112
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 21}
+        - {x: -20.5, y: 21}
+        - {x: -20.5, y: -11}
+        - {x: -18.5, y: -19}
+        - {x: -16.5, y: -21}
+        - {x: 12.5, y: -21}
+        - {x: 19.5, y: -16}
+        - {x: 20.5, y: -14}
+        - {x: 20.5, y: 11}
+      physicsShape:
+      - - {x: 11.5, y: 21}
+        - {x: -20.5, y: 21}
+        - {x: -20.5, y: -11}
+        - {x: -18.5, y: -19}
+        - {x: -16.5, y: -21}
+        - {x: 12.5, y: -21}
+        - {x: 19.5, y: -16}
+        - {x: 20.5, y: -14}
+        - {x: 20.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 112
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 15}
+        - {x: 14.5, y: 21}
+      physicsShape:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 15}
+        - {x: 14.5, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 112
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21.5}
+        - {x: -18, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 11.5}
+        - {x: 15, y: 21.5}
+      physicsShape:
+      - - {x: -18, y: 21.5}
+        - {x: -18, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 11.5}
+        - {x: 15, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 111
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 27}
+        - {x: 8, y: 25}
+        - {x: 6, y: 23}
+        - {x: 7, y: 18}
+        - {x: 7, y: 20}
+        - {x: 2, y: 24}
+        - {x: 3, y: 27}
+        - {x: -19, y: 27}
+        - {x: -23, y: 24}
+        - {x: -23, y: -27}
+        - {x: 7, y: -27}
+        - {x: 23, y: 3}
+        - {x: 23, y: 22}
+        - {x: 16, y: 27}
+      physicsShape:
+      - - {x: 15, y: 27}
+        - {x: 8, y: 25}
+        - {x: 6, y: 23}
+        - {x: 7, y: 18}
+        - {x: 7, y: 20}
+        - {x: 2, y: 24}
+        - {x: 3, y: 27}
+        - {x: -19, y: 27}
+        - {x: -23, y: 24}
+        - {x: -23, y: -27}
+        - {x: 7, y: -27}
+        - {x: 23, y: 3}
+        - {x: 23, y: 22}
+        - {x: 16, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22.5}
+        - {x: -15, y: 0.5}
+        - {x: -15, y: -22.5}
+        - {x: 15, y: -22.5}
+        - {x: 15, y: 22.5}
+      physicsShape:
+      - - {x: -12, y: 22.5}
+        - {x: -15, y: 0.5}
+        - {x: -15, y: -22.5}
+        - {x: 15, y: -22.5}
+        - {x: 15, y: 22.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 18.5}
+        - {x: -35, y: 15.5}
+        - {x: -35, y: -10.5}
+        - {x: -18, y: -18.5}
+        - {x: 33, y: -18.5}
+        - {x: 35, y: -15.5}
+        - {x: 35, y: 14.5}
+        - {x: 31, y: 18.5}
+      physicsShape:
+      - - {x: -26, y: 18.5}
+        - {x: -35, y: 15.5}
+        - {x: -35, y: -10.5}
+        - {x: -18, y: -18.5}
+        - {x: 33, y: -18.5}
+        - {x: 35, y: -15.5}
+        - {x: 35, y: 14.5}
+        - {x: 31, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 59
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 18.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -21.5, y: 12.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -18.5, y: 0.5}
+        - {x: -12.5, y: -18.5}
+        - {x: 21.5, y: -18.5}
+        - {x: 21.5, y: 9.5}
+        - {x: 15.5, y: 17.5}
+      physicsShape:
+      - - {x: 12.5, y: 18.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -21.5, y: 12.5}
+        - {x: -21.5, y: 4.5}
+        - {x: -18.5, y: 0.5}
+        - {x: -12.5, y: -18.5}
+        - {x: 21.5, y: -18.5}
+        - {x: 21.5, y: 9.5}
+        - {x: 15.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -12.5, y: -18.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 14.5, y: 18.5}
+      physicsShape:
+      - - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -12.5, y: -18.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 14.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 57
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18.5}
+        - {x: -15.5, y: 6.5}
+        - {x: -15.5, y: -18.5}
+        - {x: 15.5, y: -18.5}
+        - {x: 15.5, y: 14.5}
+        - {x: 8.5, y: 18.5}
+      physicsShape:
+      - - {x: -7.5, y: 18.5}
+        - {x: -15.5, y: 6.5}
+        - {x: -15.5, y: -18.5}
+        - {x: 15.5, y: -18.5}
+        - {x: 15.5, y: 14.5}
+        - {x: 8.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 14
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23.5}
+        - {x: -13, y: -6.5}
+        - {x: -11, y: -22.5}
+        - {x: -9, y: -23.5}
+        - {x: 13, y: -23.5}
+        - {x: 13, y: 20.5}
+        - {x: 8, y: 23.5}
+      physicsShape:
+      - - {x: -13, y: 23.5}
+        - {x: -13, y: -6.5}
+        - {x: -11, y: -22.5}
+        - {x: -9, y: -23.5}
+        - {x: 13, y: -23.5}
+        - {x: 13, y: 20.5}
+        - {x: 8, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 19.5}
+        - {x: -15.5, y: 19.5}
+        - {x: -20.5, y: 17.5}
+      physicsShape:
+      - - {x: -20.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 19.5}
+        - {x: -15.5, y: 19.5}
+        - {x: -20.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 19.5}
+      - - {x: 0.5, y: 11.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: 11.5}
+        - {x: 2.5, y: 10.5}
+        - {x: 1.5, y: 11.5}
+      physicsShape:
+      - - {x: -15.5, y: 19.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 19.5}
+      - - {x: 0.5, y: 11.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: 11.5}
+        - {x: 2.5, y: 10.5}
+        - {x: 1.5, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -19, y: 11.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -18.5}
+        - {x: 20, y: -18.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 18.5}
+      physicsShape:
+      - - {x: -16, y: 18.5}
+        - {x: -19, y: 11.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -18.5}
+        - {x: 20, y: -18.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 19}
+        - {x: -11.5, y: 19}
+        - {x: -18.5, y: 11}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 17.5, y: -14}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 11}
+      physicsShape:
+      - - {x: 12.5, y: 19}
+        - {x: -11.5, y: 19}
+        - {x: -18.5, y: 11}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 17.5, y: -14}
+        - {x: 20.5, y: -5}
+        - {x: 20.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zagan_fighter_axe - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 14
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -20, y: 19}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 17}
+        - {x: 16, y: 21}
+      physicsShape:
+      - - {x: -7, y: 21}
+        - {x: -20, y: 19}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 17}
+        - {x: 16, y: 21}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: 2461450bab1df654bbd9f55d4d916004
+timeCreated: 1515975099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walking1
+    21300002: Walking2
+    21300004: Walking3
+    21300006: Walking4
+    21300008: Walking5
+    21300010: Walking6
+    21300012: Walking7
+    21300014: Walking8
+    21300016: WalkingFlipped1
+    21300018: WalkingFlipped2
+    21300020: WalkingFlipped3
+    21300022: WalkingFlipped4
+    21300024: WalkingFlipped5
+    21300026: WalkingFlipped6
+    21300028: WalkingFlipped7
+    21300030: WalkingFlipped8
+    21300032: WalkingUp1
+    21300034: WalkingUp2
+    21300036: WalkingUp3
+    21300038: WalkingUp4
+    21300040: WalkingUp5
+    21300042: WalkingUp6
+    21300044: WalkingUp7
+    21300046: WalkingUp8
+    21300048: WalkingDown1
+    21300050: WalkingDown2
+    21300052: WalkingDown3
+    21300054: WalkingDown4
+    21300056: WalkingDown5
+    21300058: WalkingDown6
+    21300060: WalkingDown7
+    21300062: WalkingDown8
+    21300064: linksprites_32
+    21300066: linksprites_33
+    21300068: linksprites_34
+    21300070: linksprites_35
+    21300072: linksprites_36
+    21300074: linksprites_37
+    21300076: linksprites_38
+    21300078: linksprites_39
+    21300080: linksprites_40
+    21300082: linksprites_41
+    21300084: linksprites_42
+    21300086: linksprites_43
+    21300088: linksprites_44
+    21300090: linksprites_45
+    21300092: linksprites_46
+    21300094: linksprites_47
+    21300096: linksprites_48
+    21300098: linksprites_49
+    21300100: linksprites_50
+    21300102: linksprites_51
+    21300104: linksprites_52
+    21300106: linksprites_53
+    21300108: linksprites_54
+    21300110: linksprites_55
+    21300112: linksprites_56
+    21300114: linksprites_57
+    21300116: linksprites_58
+    21300118: linksprites_59
+    21300120: linksprites_60
+    21300122: linksprites_61
+    21300124: linksprites_62
+    21300126: linksprites_63
+    21300128: linksprites_64
+    21300130: linksprites_65
+    21300132: linksprites_66
+    21300134: linksprites_67
+    21300136: linksprites_68
+    21300138: linksprites_69
+    21300140: linksprites_70
+    21300142: linksprites_71
+    21300144: linksprites_72
+    21300146: linksprites_73
+    21300148: linksprites_74
+    21300150: linksprites_75
+    21300152: linksprites_76
+    21300154: linksprites_77
+    21300156: linksprites_78
+    21300158: linksprites_79
+    21300160: linksprites_80
+    21300162: linksprites_81
+    21300164: linksprites_82
+    21300166: linksprites_83
+    21300168: linksprites_84
+    21300170: linksprites_85
+    21300172: linksprites_86
+    21300174: linksprites_87
+    21300176: linksprites_88
+    21300178: linksprites_89
+    21300180: linksprites_90
+    21300182: IdleDown
+    21300184: IdleRight
+    21300186: IdleUp
+    21300188: IdleLeft
+    21300190: linksprites_95
+    21300192: linksprites_96
+    21300194: linksprites_97
+    21300196: linksprites_98
+    21300198: AttackDown1
+    21300200: AttackDown2
+    21300202: AttackDown3
+    21300204: AttackDown4
+    21300206: AttackDown5
+    21300208: AttackUp1
+    21300210: AttackUp2
+    21300212: AttackUp3
+    21300214: AttackUp4
+    21300216: AttackUp5
+    21300218: AttackUp6
+    21300220: Attack1
+    21300222: Attack2
+    21300224: Attack3
+    21300226: Attack4
+    21300228: Attack5
+    21300230: Attack6
+    21300232: AttackFlipped1
+    21300234: AttackFlipped2
+    21300236: AttackFlipped3
+    21300238: AttackFlipped4
+    21300240: AttackFlipped5
+    21300242: AttackFlipped6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 269
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 269
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 269
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 269
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 269
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walking8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 269
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 270
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 270
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 270
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 270
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingFlipped8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 270
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 240
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 240
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 240
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 240
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingUp8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 241
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 241
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 241
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 241
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 241
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 241
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 241
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingDown8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 241
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 211
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 211
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 211
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 211
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 211
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 211
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 211
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 212
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 212
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 212
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_45
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 212
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 212
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 212
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 180
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 180
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 180
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 180
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 180
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 180
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 181
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 181
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_59
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 181
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 181
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 181
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 151
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 151
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 151
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 152
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 151
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 151
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 151
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_73
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 151
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 154
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 122
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 122
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 123
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 123
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 124
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 124
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 123
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 123
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 122
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_85
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 122
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_86
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 122
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_87
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_89
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_90
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 92
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleDown
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleRight
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 92
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleUp
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 92
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleLeft
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 92
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 92
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_97
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 92
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linksprites_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackDown1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 58
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.524452, y: 0.520959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackDown2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 55
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6312696, y: 0.6521468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackDown3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 55
+        width: 19
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5772175, y: 0.57042235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackDown4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 54
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.52667516, y: 0.59780884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackDown5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3826299, y: 0.5821591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.37111664, y: 0.5135018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 52
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.37111664, y: 0.47422287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 51
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4253829, y: 0.41200414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: 0.440306, y: 0.46341386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 50
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.59451294, y: 0.39792466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackUp6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 50
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6417704, y: 0.5270035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.60978264, y: 0.5073187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6908324, y: 0.5805073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 29
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7109851, y: 0.5563553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 12
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6548221, y: 0.61766446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6171015, y: 0.6610146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 14
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.36198717, y: 0.49999955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0.27935, y: 0.47584724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 14
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.33323452, y: 0.50805056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2832489, y: 0.6192703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AttackFlipped6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 7
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3682598, y: 0.6610147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
